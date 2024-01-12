@@ -13,3 +13,4 @@
 * 그 외 디테일한 부분들..
 
 #### 앱 구동 시현
+![계산기 구동](https://github.com/jHoon0223/Calculator/assets/68009530/237a91ed-8075-417a-9caa-f5db817690ec)
